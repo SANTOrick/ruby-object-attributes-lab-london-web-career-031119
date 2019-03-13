@@ -14,7 +14,7 @@
       end
 
      def job=(new_job)
-       @breed = new_job
+       @job = new_job
     end
 
   end
